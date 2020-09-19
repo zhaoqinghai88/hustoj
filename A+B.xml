@@ -23,7 +23,7 @@
 <hint><![CDATA[<p>Q: Where are the input and the output? A: Your program shall always <font color="#ff0000">read input from stdin (Standard Input) and write output to stdout (Standard Output)</font>. For example, you can use 'scanf' in C or 'cin' in C++ to read from stdin, and use 'printf' in C or 'cout' in C++ to write to stdout. You <font color="#ff0000">shall not output any extra data</font> to standard output other than that required by the problem, otherwise you will get a &quot;Wrong Answer&quot;. User programs are not allowed to open and read from/write to files. You will get a &quot;Runtime Error&quot; or a &quot;Wrong Answer&quot; if you try to do so. Here is a sample solution for problem 1000 using C++/G++:</p>
 <pre>
 #include &lt;iostream&gt;
-using namespace std;
+using namespace 
 int  main()
 {
     int a,b;
